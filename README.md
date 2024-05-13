@@ -23,7 +23,7 @@ and a CPU model Intel(R) Core(TM) i7-9800X @ 3.80GHz.
 ```
 @article{wang2023hih,
   title={HiH: A Multi-modal Hierarchy in Hierarchy Network for Unconstrained Gait Recognition},
-  author={Wang, Lei and Ma, Yinchi and Luan, Peng and Yao, Wei and Li, Congcong and Liu, Bo},
+  author={Lei Wang, Bo Liu, Yinchi Ma, Fangfang Liang, Nawei Guo},
   journal={arXiv preprint arXiv:2311.11210},
   year={2023}
 }
