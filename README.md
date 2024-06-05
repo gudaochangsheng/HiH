@@ -1,6 +1,6 @@
 # HiH
 
-This is the code for the paper [HiH: A Multi-modal Hierarchy in Hierarchy Network for Unconstrained Gait Recognition](https://arxiv.org/pdf/2311.11210.pdf).
+This is the code for the paper [HiH: A Multi-modal Hierarchy-in-Hierarchy Network for Unconstrained Gait Recognition](https://arxiv.org/pdf/2311.11210.pdf).
 
 # Operating Environments
 ## Hardware Environment
